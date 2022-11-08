@@ -1,0 +1,5 @@
+请下载Selenium所需的webdriver并放到Python的Scripts文件夹下。
+
+第一次使用请用getcookie函数获取cookie。
+
+正则和查找ClassName等环节与实际使用情况有出入的请按照具体页面自行调试。
